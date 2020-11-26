@@ -7,7 +7,7 @@ title: ZenHackademy
 description:  Leonardo-UniGe Cybersecurity Scholarship Program
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/leonardo-unige-cyber
+baseurl: "/leonardo-unige-cyber"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
