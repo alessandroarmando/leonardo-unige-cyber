@@ -4,10 +4,10 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: ZenHackademy
 # description: This will be meta HTML tag content. This can be ignored.
-description:  ZenHacAdemy Web Site
+description:  Leonardo-UniGe Cybersecurity Scholarship Program
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/zenhackademy"
+baseurl: "/leonardo-unige-cyber
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
