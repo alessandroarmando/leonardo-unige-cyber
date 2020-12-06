@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: ZenHackademy
 # description: This will be meta HTML tag content. This can be ignored.
-description:  Leonardo-UniGe Cybersecurity Scholarship Program
+description:  Leonardo-UniGe CyberSecurity Scholarship Program
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/leonardo-unige-cyber"
@@ -14,7 +14,7 @@ baseurl: "/leonardo-unige-cyber"
 username: ZenHackAdemy
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Leonardo-UniGe Cybersecurity Scholarship Program
+typing_text: Leonardo-UniGe CyberSecurity Scholarship Program
 # email: Your E-Mail address for the email button.
 email: alessandro.armando@unige.it
 # For every social button you want to display, set your username or userid
