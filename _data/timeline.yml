@@ -29,11 +29,12 @@
 
 - title: CTF Rehearsal
   date: Dec 9, 2020
-  subtitle: ZenHack Team
+  subtitle: ZenHackAdemy Team
   timeline-side: left
 
 - title: CTF Competition
   date: Dec 16, 2020
+  subtitle: ZenHackAdemy
   timeline-side: right
 
 - title: Presentation of the Leonardo-UniGe Scholarhip Program
@@ -41,18 +42,12 @@
   subtitle: Representatives of UniGe, Leonardo and ZenHack
   timeline-side: left
 
-- title: Advanced CyberSecurity Training I
-  date: Jan 13, 2021
-  timeline-side: right
-
-- title: Advanced CyberSecurity Training II
-  date: Jan 20, 2021
-  timeline-side: left
-
-- title: Advanced CyberSecurity Training III
-  date: Jan 27, 2021
+- title: Advanced CyberSecurity Training
+  date: Jan 13-27, 2021
+  subtitle: Leonardo and ZenHackAdemy 
   timeline-side: right
 
 - title: Cyber Defence Simulation
   date: Feb 3, 2021
+  subtitle: Leonardo and ZenHackAdemy 
   timeline-side: left
