@@ -19,7 +19,7 @@
 
 - title: Hands-on Training
   date: Oct 14 - Nov 25, 2020
-  subtitle: Selected topics
+  subtitle: ZenHackAdemy
   timeline-side: right
   tags:
     - tag: Cryptography
@@ -29,7 +29,7 @@
 
 - title: CTF Rehearsal
   date: Dec 9, 2020
-  subtitle: ZenHackAdemy Team
+  subtitle: ZenHackAdemy
   timeline-side: left
 
 - title: CTF Competition
@@ -39,7 +39,7 @@
 
 - title: Presentation of the Leonardo-UniGe Scholarhip Program
   date: Dec 22, 2020
-  subtitle: Representatives of UniGe, Leonardo and ZenHack
+  subtitle: UniGe, Leonardo and ZenHack Team
   timeline-side: left
 
 - title: Advanced CyberSecurity Training
