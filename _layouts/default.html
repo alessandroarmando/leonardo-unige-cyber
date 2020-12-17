@@ -30,7 +30,9 @@
       <hr />
     </div>
   </div>
+
   {% include landing-page.html %}
+
   <div class="layout">
     {%if site.show_aboutme_card %}
       <section class="card neumorphism-card-big">
@@ -38,27 +40,16 @@
       </section>
     {% endif %}
 
-    <!--
-    {%if site.show_skills_card %}
-      <section class="card neumorphism-card-big">
-        {% include section-skills.html %}
-      </section>
-    {% endif %}
-    -->
-
     {%if site.show_timeline_card %}
       <section class="card neumorphism-card-big">
         {% include section-timeline.html %}
       </section>
     {% endif %}
 
-    <!--
-    {%if site.show_projects_card %}
       <section class="card neumorphism-card-big">
-        {% include section-projects.html %}
+        {% include section-leonardo.html %}
       </section>
-    {% endif %}
-    -->
+
     {%if site.show_contact_card %}
     <section class="card neumorphism-card-big">
       {% include section-contact.html %}
@@ -66,5 +57,6 @@
     {% endif %}
   </div>
   {% include footer.html %}
+
 </body>
 </html>
